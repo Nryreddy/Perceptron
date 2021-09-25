@@ -1,9 +1,9 @@
 from utils.model import Perceptron
-from utils.all_utils import save_model
-from utils.all_utils import save_plot
+from utils.all__utils import save_model
+from utils.all__utils import save_plot
+from utils.all__utils import prepare_data
 import pandas as pd
 import numpy as np
-
 
 AND = {
     "x1": [0,0,1,1],
