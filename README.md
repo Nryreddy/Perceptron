@@ -3,7 +3,6 @@
 ## Add image -
 ![sample Image](plots/and.png)
 
-<img src="plots/and.png" alt="Girl in a jacket" width="500" height="600">
 
 ## Python code
 
